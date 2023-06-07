@@ -1,12 +1,7 @@
 # !/usr/bin/python
 # -*- coding: utf-8 -*-
 
-# @Time: 2020/1/17 20:14
-# @Author: Casually
-# @File: json_utils.py
-# @Email: fjkl@vip.qq.com
-# @Software: PyCharm
-#
+
 # 功能：关于flask的jsonify序列化dict后的结果会自动根据key的下标升序排列,
 #       希望dict原样返回的方法 [重写jsonify方法]
 

@@ -1,11 +1,6 @@
 # !/usr/bin/python
 # -*- coding: utf-8 -*-
 
-# @Time: 2020/2/6 下午12:13
-# @Author: Casually
-# @File: Server.py
-# @Email: fjkl@vip.qq.com
-# @Software: PyCharm
 
 from _collections import OrderedDict
 # 导入Flask类
